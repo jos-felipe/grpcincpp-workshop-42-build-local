@@ -1,1 +1,1 @@
-FROM joaofrsoares/devcontainer-grpc-cpp:latest
+FROM joaofrsoares/devcontainer-cpp-grpc:latest
